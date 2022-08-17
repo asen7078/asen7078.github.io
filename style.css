@@ -279,7 +279,7 @@ button {
         display: none;
     }
     .one{
-        min-width: 120px;
+        width: 175px;
     }
     .two{
         width:600px;
