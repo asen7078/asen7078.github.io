@@ -273,13 +273,13 @@ button {
     }
     
 }
-@media  (max-width:500px)
+@media  (max-width: 490px)
 {
     aside{
         display: none;
     }
     .one{
-        min-width: 125px;
+        min-width: 160px;
     }
     .two{
         width:600px;
